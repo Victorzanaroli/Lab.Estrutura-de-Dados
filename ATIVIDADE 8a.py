@@ -155,6 +155,6 @@ if __name__ == "__main__":
     else:
         print("Buscar 73 após remoção: elemento não existe")
 
-    # estado final
+    # Estado final
     print("\nEstado final da Hash Table:")
     print(ht)
